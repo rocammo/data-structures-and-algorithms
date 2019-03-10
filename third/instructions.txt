@@ -1,0 +1,3 @@
+Hay dos versiones del proyecto. La diferencia es simplemente la codificación de caracteres de cada una.
+    - Desde Windows:  win/
+    - Desde macOS:    mac/
